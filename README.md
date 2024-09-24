@@ -33,5 +33,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=coder9-shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)stagram Badge"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   </a>
