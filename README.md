@@ -29,9 +29,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder9-shivam&theme=dark)
 
-## GitHub:
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=coder9-shivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
