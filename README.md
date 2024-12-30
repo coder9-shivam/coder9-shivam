@@ -20,7 +20,7 @@
 </div>
 
 ## 💻 Tech Stack:
-![](https://skillicons.dev/icons?i=html,css,javascript,git,github,photoshop,figma)
+![](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,git,github,photoshop,figma,blender,bootstrap)
 
 ## 📊 GitHub Stats:
 ![Shivam kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder9-shivam&show_icons=true&theme=dark)<br>
